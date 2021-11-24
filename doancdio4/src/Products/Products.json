@@ -1,0 +1,13 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "caption": "Salon gỗ",
+            "description": "L101021 – Bộ salon gỗ",
+            "rating": "1",
+            "price": "689",
+             "imageurl": "Picture/salon.jpeg",
+            "category": "electronics"
+        }
+    ]
+}
